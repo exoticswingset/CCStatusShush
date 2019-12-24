@@ -1,0 +1,10 @@
+Package: com.exoticswingset.ccstatusshush
+Name: CCStatusShush
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Depiction: https;//exoticswingset.github.io/depictions/CCStatusShush.html
+Maintainer: ExoticSwingset
+Author: ExoticSwingset
+Section: Tweaks
